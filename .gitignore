@@ -1,0 +1,6 @@
+start.sh
+/bin/*.exe
+/.idea
+bin/relay-outside
+private.env
+var/

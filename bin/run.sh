@@ -1,0 +1,1 @@
+go build  -o relay-remind .. && ./relay-remind
